@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # Automatic Ticket Classification
 
@@ -15,3 +16,6 @@ This project classifies support tickets into predefined categories using Natural
 - Pandas
 - Jupyter Notebook
 
+=======
+# Automatic_Ticket_Classfication
+>>>>>>> f967a933529aefa6d012d555c25e1e0b2da1fed2
