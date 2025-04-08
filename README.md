@@ -14,6 +14,4 @@ This project classifies support tickets into predefined categories using Natural
 - Scikit-learn
 - Pandas
 - Jupyter Notebook
-=======
-# Automatic_Ticket_Classification
 
